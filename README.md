@@ -7,7 +7,7 @@ Requirements
     Java 8 or above
     Apache Maven
     SQL database
-    Tomcat 8.5
+    Tomcat 
 
 Setup
 
