@@ -7,6 +7,7 @@ Requirements
     Java 8 or above
     Apache Maven
     SQL database
+    Tomcat 8.5
 
 Setup
 
@@ -21,5 +22,5 @@ https://github.com/osmandgn/spring-mvc-course-management.git
 
 Usage
 
-The system provides a web interface for registering customers. Once the project is running, you can access the interface by navigating to http://localhost:8080/customer-management in your browser.
+The system provides a web interface for registering customers. Once the project is running, you can access the interface by navigating to http://localhost:8443/MvcPractice/ in your browser.
 Contribution
